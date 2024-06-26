@@ -17,7 +17,7 @@
 	},
 	"typings": "./lib/common/common.d.ts",
 	"devDependencies": {
-		"@types/mocha": "^9.1.0",
+		"@types/mocha": "^9.1.1",
 		"@types/node": "14.14.31",
 		"@typescript-eslint/parser": "^4.28.0",
 		"eslint": "^7.29.0",
